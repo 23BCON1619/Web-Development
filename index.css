@@ -1,4 +1,4 @@
-*{
+/* *{
     margin: 0;
     padding: 0;
     box-sizing: border-box; 
@@ -9,7 +9,7 @@ nav{
     display: flex;
     justify-content: space-evenly;
 
-=}
+}
 
 
 h1{
@@ -36,4 +36,23 @@ img{
 
     background-color: rgb(190, 246, 218);
 
-}
+} */
+
+
+
+
+h1{
+    margin: 20px;
+    padding: 20px;
+    width: 500px;
+    border-top: 4px solid yellow;
+    border-bottom: 4px solid rgb(255, 102, 0);
+    border-radius: 20px 0 20px 0;
+    background-image: url("https://hirematetech.com/logo.png");
+    background-size: cover;
+    background-position: center;
+    
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}   
